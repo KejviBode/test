@@ -1,4 +1,7 @@
   Some poem tings innit
 Adding my first change and first commit
 Adding second change and second commit
+
 This one has a third change which im adding now
+
+This would be my fourth change and i want to see what happens when you merge to a master branch after its been added
